@@ -11,7 +11,6 @@ final class HighAndLow {
      * Private constructor.
      */
     private HighAndLow() {
-
     }
 
     /**
